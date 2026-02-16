@@ -54,25 +54,5 @@
 - **代码规范**：遵循前端开发最佳实践，代码风格统一
 
 ## 项目结构
-├── public/             # 静态资源
-├── src/                # 源代码
-│   ├── api/            # API 请求模块
-│   │   ├── acl/        # 权限相关 API
-│   │   ├── product/    # 商品相关 API
-│   │   └── user/       # 用户相关 API
-│   ├── assets/         # 静态资源
-│   ├── components/     # 公共组件
-│   ├── layout/         # 布局组件
-│   ├── router/         # 路由配置
-│   ├── store/          # 状态管理
-│   ├── styles/         # 全局样式
-│   ├── utils/          # 工具函数
-│   ├── view/           # 页面组件
-│   ├── App.vue         # 根组件
-│   └── main.ts         # 入口文件
-├── .env.development    # 开发环境配置
-├── .gitignore          # Git 忽略文件
-├── index.html          # HTML 模板
-├── package.json        # 项目配置
-├── tsconfig.json       # TypeScript 配置
-└── vite.config.ts      # Vite 配置
+<img width="467" height="703" alt="image" src="https://github.com/user-attachments/assets/3786bc97-dce9-4c4c-8926-cd6d4c9f76d9" />
+
