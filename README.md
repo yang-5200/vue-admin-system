@@ -16,6 +16,10 @@
 - **开发语言**: TypeScript 5.9.3
 
 ## 功能特点
+图片展示：
+<img width="1034" height="901" alt="image" src="https://github.com/user-attachments/assets/dc487715-a52a-4836-bd34-37f6ae13abf7" />
+<img width="1223" height="611" alt="image" src="https://github.com/user-attachments/assets/5db6b9df-b47c-4eb7-bc04-2fb4e8177d48" />
+<img width="1270" height="451" alt="image" src="https://github.com/user-attachments/assets/8f9f4aa6-6123-4ad5-b598-f3fa5ed44142" />
 
 ### 核心功能模块
 
